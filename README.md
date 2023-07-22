@@ -147,6 +147,8 @@ Parent/YOLOv5$ python segment/predict.py --weights runs/train-seg/${훈련된 �
   + `2`: Mosaic
   + `3`: Demo (Raw Image -> Detection -> Segmentation -> Mosaic)
 
+https://github.com/BOAZ-bigdata/18th_Conference_BoonMoSa/assets/42334717/38c0b21d-53f8-418d-884b-58b4885a0348
+
 </details>
 
 ---
